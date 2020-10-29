@@ -16,11 +16,11 @@ password123
 
 ## Before you try this approach
 
-Do you have anyone else on your team/in your company who can unlock your account?
+-Do you have anyone else on your team/in your company who can unlock your account?
 
-Is your project hosted on Umbraco Cloud? If so, you can reach out to Umbraco Support who can help.
+-Is your project hosted on Umbraco Cloud? If so, you can reach out to Umbraco Support who can help.
 
-Are you able to configure SMTP settings in web.config to make sure reset password emails are being sent? (by default the SMTP will not be configured).
+-Are you able to configure SMTP settings in web.config to make sure reset password emails are being sent? (by default the SMTP will not be configured).
 
 
 If you answered yes to any of the above, you do not need to use this code. Please consider the alternatives.
